@@ -4,7 +4,7 @@ This facial recognizer is capable of identifying and verifying a person from a v
 Store the images of the faces to be recognised by the face_recogniser in the "images" folder.
 Images should be saved in .jpg format.
 The name of the image file will be displayed as the welcome message on the screen when recognized.
-	E.g: image file name: mayank.jpg
+	E.g: image file name: "mayank.jpg"
 		   Output message on screen will be (if recognized): Welcome mayank!
     
 ### Execution
